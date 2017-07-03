@@ -1,0 +1,6 @@
+{
+    "uuid": "top-bar-middle-click-to-lower@kankaristo.fi",
+    "name": "Top Bar Middle-Click To Lower",
+    "shell-version": ["3.22.3"],
+    "description": "Lower the active window with a middle-click on the top bar"
+}
