@@ -1,6 +1,7 @@
 {
     "uuid": "top-bar-middle-click-to-lower@kankaristo.fi",
     "name": "Top Bar Middle-Click To Lower",
+    "url": "https://github.com/kankaristo/gnome-shell-extension-top-bar-middle-click-to-lower",
     "shell-version": [
         "3.10",
         "3.11",
